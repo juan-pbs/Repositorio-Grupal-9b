@@ -4,5 +4,10 @@ practica 1
 Daniel Garcia Jeronimo  matricula: 2330622
 
 
+Practica  ximena sanchez marquez 28/05/2026
+
+
+
 **Datos**
 Salomon Larios Nazar -> Matricula 2330189
+Mauricio Martinez Trejo 2330613
